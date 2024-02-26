@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artspace1">Mountains of Kannakiis</string>
+    <string name="artspace1_description">Click by myself</string>
+    <string name="artspace2">Hawaii Wave</string>
+    <string name="artspace2_description">Vicent Van Gogh(1756)</string>
+    <string name="artspace3">Night Lady Rain</string>
+    <string name="artspace3_description">This is my artwork</string>
+
+</resources>
